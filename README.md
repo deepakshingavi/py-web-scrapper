@@ -17,7 +17,7 @@ A python script which uses selenium browser drivers to scrape web data
 ## Getting Started
 
 ## Pre-requisite
-
+mark
 - Install Python 3.9+
 - Install browser compatible with your browser  [Chrome Driver](https://chromedriver.storage.googleapis.com/index.html?path=108.0.5359.71/)
 

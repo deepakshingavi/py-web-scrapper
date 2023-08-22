@@ -33,7 +33,7 @@ class Database:
                            "(image_name,total_downloads,total_stars,total_pulls) "
                            "VALUES(%s, %s, %s, %s)",
                            (data['image_name'], data['total_downloads'], data['total_stars'],
-                            data['total_stars']))
+                            data['total_pulls']))
             con.commit()
 
             return True
